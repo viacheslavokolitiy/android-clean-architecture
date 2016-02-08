@@ -34,4 +34,5 @@ dependencies {
     compile 'io.reactivex:rxandroid:1.1.0'
     compile 'com.google.dagger:dagger:2.1-SNAPSHOT'
     apt 'com.google.dagger:dagger-compiler:2.1-SNAPSHOT'
+    compile 'com.jakewharton:butterknife:7.0.1'
 }
